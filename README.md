@@ -63,3 +63,6 @@ A Discord bot that hosts a tombola (bingo-style) game for your community. Player
 
 ## Lisans / License
 ISC Lisansi (bkz. package.json).
+<img width="739" height="380" alt="image" src="https://github.com/user-attachments/assets/12aa43f3-a8f6-441c-948d-6fc95727f659" />
+<img width="732" height="344" alt="image" src="https://github.com/user-attachments/assets/0dc250d7-579d-4763-9fd6-bbe5825f56dd" />
+
