@@ -8,7 +8,6 @@ Discord sunucunuzda tombala oyunu oynatmak icin gelistirilmis bir bottur. Oyuncu
 - Tombala oyunu icin kart dagitimi ve numara cekme
 - Kazananlari otomatik kaydetme ve istatistiklar
 - Yetkili rollere ozel kontroller
-- TR/EN coklu dil destegi (komut ile degistirilebilir)
 
 ### Kurulum
 1. Depoyu klonlayin veya indirin.
@@ -28,7 +27,6 @@ Discord sunucunuzda tombala oyunu oynatmak icin gelistirilmis bir bottur. Oyuncu
 - `!tnew`: Oyunu sifirlar.
 - `!tstat`: Kullanici istatistigi.
 - `!trank`: Kazanan siralamasi.
-- `!language [tr|en]`: Mesaj dilini ayarlar.
 
 ### Fotoğraflar
 
@@ -43,7 +41,6 @@ A Discord bot that hosts a tombola (bingo-style) game for your community. Player
 - Card distribution and number drawing for tombola
 - Automatic winner logging and stats
 - Admin-only controls
-- TR/EN multi-language support (switchable with command)
 
 ### Setup
 1. Clone or download the repository.
@@ -64,7 +61,6 @@ A Discord bot that hosts a tombola (bingo-style) game for your community. Player
 - `!tnew`: Reset the game.
 - `!tstat`: Show user stats.
 - `!trank`: Display winner rankings.
-- `!language [tr|en]`: Set the message language.
 
 ### Pics
 
@@ -73,6 +69,7 @@ A Discord bot that hosts a tombola (bingo-style) game for your community. Player
 
 ## Lisans / License
 ISC Lisansi (bkz. package.json).
+
 
 
 
